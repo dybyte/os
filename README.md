@@ -1,6 +1,6 @@
 # os
 ## 1. 계좌 Race Condition + Deadlock 과제
-📌 과제명
+### 과제명
 동기화 문제 해결: 은행 계좌 이체 시스템 구현과 Deadlock 회피
 
 ### 과제 목적
